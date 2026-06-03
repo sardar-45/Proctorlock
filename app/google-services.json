@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543150077455",
+    "project_id": "proctor-lock",
+    "storage_bucket": "proctor-lock.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543150077455:android:127c68f80fd1b2ac43957a",
+        "android_client_info": {
+          "package_name": "com.example.proctorlock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2z9gdt4Pp3VIwO5R1apMGTOOm_teXovU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
